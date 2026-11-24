@@ -205,7 +205,7 @@ export default function Hero({ onJump }: { onJump: (id: string) => void }) {
               {[
                 { k: "apis", v: "10+" },
                 { k: "rag builds", v: "5+" },
-                { k: "dockerized", v: "100%" },
+                { k: "dockerized", v: "75%" },
               ].map((s, i) => (
                 <div
                   key={s.k}

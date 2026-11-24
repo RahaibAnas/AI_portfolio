@@ -44,7 +44,7 @@ export const about = {
   metrics: [
     { code: "METRIC_01", value: "10+", label: "REST APIs Implemented" },
     { code: "METRIC_02", value: "5+", label: "AI & RAG Integrations" },
-    { code: "METRIC_03", value: "70%", label: "Containerized (Docker)" },
+    { code: "METRIC_03", value: "75%", label: "Containerized (Docker)" },
     { code: "METRIC_04", value: "HF", label: "Fine-Tuned Models" },
   ],
 };
