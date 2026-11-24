@@ -10,7 +10,7 @@ export const profile = {
     "Specializing in building robust Django & DRF REST APIs, background task processing with Celery & Redis, and integrating modern AI pipelines using LangChain, RAG, Vector DBs, and LLM APIs.",
   github: "https://github.com/RahaibAnas",
   linkedin: "https://www.linkedin.com/in/rahaibanas/",
-  resume: "./public/resume/Rahaib_Anas_Resume.pdf",
+  resume: "/resume/Rahaib_Anas_Resume.pdf",
   email: "mianrahaib@gmail.com",
   inquiryEmail: "mianrahaib@gmail.com",
   githubHandle: "github.com/rahaibanas",
